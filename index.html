@@ -15,7 +15,7 @@
     <script defer type="module" src="/src/index.ts"></script>
   </head>
   <body class="subpixel-antialiased font-mono overflow-x-hidden">
-    <header class="w-screen flex justify-center items-center h-screen">
+    <header class="w-screen flex justify-center items-center h-screen overflow-x-hidden">
       <div
         class="bg-primary-content relative rounded-full h-80 w-80 md:h-[26rem] md:w-[26rem] flex justify-center items-center"
       >
@@ -32,9 +32,9 @@
     </header>
     <main class="container max-w-5xl">
       <section class="min-h-screen flex justify-center items-center flex-col">
-        <h4 class="text-4xl mb-10">information</h4>
+        <h4 class="text-4xl mb-10 md:mb-20">information</h4>
         <div
-          class="px-5 pt-4 shadow-lg text-gray-100 bg-primary-content pb-6 pt-4 rounded-lg leading-normal overflow-hidden"
+          class="px-5 shadow-lg text-gray-100 bg-primary-content pb-6 pt-4 rounded-lg leading-normal overflow-hidden"
         >
           <div class="top mb-2 flex">
             <div class="h-3 w-3 bg-red-500 rounded-full"></div>
@@ -59,14 +59,14 @@
         </div>
       </section>
       <section class="min-h-screen flex justify-center items-center flex-col">
-        <h4 class="text-4xl mb-20">projects</h4>
+        <h4 class="text-4xl mb-10 md:mb-20">projects</h4>
         <ul class="grid md:grid-cols-2 gap-10">
           <li class="card bg-base-100 shadow-xl">
             <figure><img src="projects/flash.png" alt="Flash's image" class="object-cover object-top h-64" /></figure>
             <div class="card-body bg-base-200">
               <h2 class="card-title">flash</h2>
               <p>photo sharing social network with real-time features for notifications & feed</p>
-              <div>
+              <div class="mt-3">
                 <span class="badge">PHP</span>
                 <span class="badge">Laravel</span>
                 <span class="badge">Inertia.js</span>
@@ -74,7 +74,7 @@
                 <span class="badge">Pusher</span>
                 <span class="badge">React</span>
               </div>
-              <div class="card-actions justify-end">
+              <div class="card-actions justify-end mt-5">
                 <a href="https://flash.project.hirbu.ro" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Website</a>
                 <a href="https://github.com/andrei-hrb/instagram-clone" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">Source Code</a>
               </div>
@@ -85,13 +85,13 @@
             <div class="card-body bg-base-200">
               <h2 class="card-title">better infofer</h2>
               <p>better frontend for Romanian's Railway website based on a scrapping API</p>
-              <div>
+              <div class="mt-3">
                 <span class="badge">NodeJS</span>
                 <span class="badge">React</span>
                 <span class="badge">Serverless Architecture</span>
                 <span class="badge">Puppeteer</span>
               </div>
-              <div class="card-actions justify-end">
+              <div class="card-actions justify-end mt-5">
                 <a href="https://infofer.project.hirbu.ro/" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Website</a>
                 <a href="https://github.com/andrei-hrb/better-infofer" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">Source Code</a>
               </div>
