@@ -1,23 +1,23 @@
 /** @type {import('tailwindcss').Config} */
-const defaultTheme = require("tailwindcss/defaultTheme");
+const defaultTheme = require('tailwindcss/defaultTheme')
 
 export default {
-  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
+  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
   theme: {
     extend: {
       animation: {
-        "spin-slow": "spin 18s linear infinite",
-        "blink": "blink 1s linear infinite",
+        'spin-slow': 'spin 18s linear infinite',
+        blink: 'blink 1s linear infinite',
       },
       keyframes: {
-        "blink": {
+        blink: {
           '0%, 100%': { opacity: 1 },
-          '50%': { opacity: 0 }
-        }
+          '50%': { opacity: 0 },
+        },
       },
       fontFamily: {
-        serif: ["Playfair Display", ...defaultTheme.fontFamily.sans],
-        mono: ["IBM Plex Mono", ...defaultTheme.fontFamily.sans],
+        serif: ['Playfair Display', ...defaultTheme.fontFamily.sans],
+        mono: ['IBM Plex Mono', ...defaultTheme.fontFamily.sans],
       },
       container: {
         center: true,
@@ -25,8 +25,8 @@ export default {
       },
     },
   },
-  plugins: [require("daisyui"), "prettier-plugin-tailwindcss"],
+  plugins: [require('daisyui')],
   daisyui: {
-    themes: ["retro", "coffee"],
+    themes: ['retro', 'coffee'],
   },
-};
+}
