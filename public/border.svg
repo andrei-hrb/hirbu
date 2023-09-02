@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="IBM Plex Mono">@import url(https://fonts.googleapis.com/css2?family=IBM+Plex+Mono%3Aital%2Cwght%400%2C100%3B0%2C200%3B0%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B1%2C100%3B1%2C200%3B1%2C300%3B1%2C400%3B1%2C500%3B1%2C600%3B1%2C700&amp;display=swap);</style>
+  </defs>
+  <path d="M 380.979 268.856 A 153.189 153.189 0 0 1 227.79 422.045 A 153.189 153.189 0 0 1 74.601 268.856 A 153.189 153.189 0 0 1 227.79 115.667 A 153.189 153.189 0 0 1 380.979 268.856 Z" style="fill: rgba(216, 216, 216, 0); stroke: rgba(0, 0, 0, 0);" id="path-0"/>
+  <text style="fill: rgb(40, 36, 37); font-family: &quot;IBM Plex Mono&quot;; font-size: 24px; font-weight: 500; white-space: pre;" transform="matrix(1.406246, 0, 0, 1.406225, -70.33223, -128.017456)"><textPath xlink:href="#path-0"><tspan x="44.419" y="65.553">; {} () " ' + - * / % = == != &gt; &lt; &gt;= &lt;= . , -&gt; &amp; | ! ? : @ [ ] \</tspan></textPath></text>
+</svg>
