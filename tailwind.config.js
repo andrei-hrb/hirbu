@@ -27,6 +27,6 @@ export default {
   },
   plugins: [require('daisyui')],
   daisyui: {
-    themes: ['retro', 'coffee'],
+    themes: ['corporate'],
   },
 }

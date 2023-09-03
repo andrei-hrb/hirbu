@@ -2,21 +2,64 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="201.07893mm"
-   height="201.07893mm"
-   viewBox="0 0 201.07893 201.07893"
+   width="201.0038mm"
+   height="200.90987mm"
+   viewBox="0 0 201.0038 200.90986"
    version="1.1"
    id="svg1"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
   <defs
      id="defs1" />
   <g
      id="layer1"
-     transform="translate(-2.1315766,-10.657891)">
+     transform="translate(-2.2067298,-10.826959)">
     <path
        style="fill:#282425;stroke-width:0.344262"
        id="path1"
        d="M 203.21051,111.19736 A 100.53947,100.53947 0 0 1 104.61473,211.71803 100.53947,100.53947 0 0 1 2.2067298,115.08401 100.53947,100.53947 0 0 1 96.842875,10.826959 100.53947,100.53947 0 0 1 202.91001,103.42985" />
+  </g>
+  <g
+     id="g2"
+     transform="translate(-2.2067298,-10.826959)">
+    <path
+       style="fill:#282425;stroke-width:0.344262"
+       id="path2"
+       d="M 203.21051,111.19736 A 100.53947,100.53947 0 0 1 104.61473,211.71803 100.53947,100.53947 0 0 1 2.2067298,115.08401 100.53947,100.53947 0 0 1 96.842875,10.826959 100.53947,100.53947 0 0 1 202.91001,103.42985" />
+  </g>
+  <g
+     id="g3"
+     transform="translate(-2.2067298,-10.826959)">
+    <path
+       style="fill:#282425;stroke-width:0.344262"
+       id="path3"
+       d="M 203.21051,111.19736 A 100.53947,100.53947 0 0 1 104.61473,211.71803 100.53947,100.53947 0 0 1 2.2067298,115.08401 100.53947,100.53947 0 0 1 96.842875,10.826959 100.53947,100.53947 0 0 1 202.91001,103.42985" />
+  </g>
+  <g
+     id="g5"
+     style="fill:#181a2a;fill-opacity:0.13"
+     transform="translate(-0.0751532,-0.16906799)">
+    <g
+       id="g4"
+       transform="translate(-2.1315766,-10.657891)"
+       style="fill:#181a2a;fill-opacity:0.13">
+      <path
+         style="fill:#181a2a;fill-opacity:0.13;stroke-width:0.344262"
+         id="path4"
+         d="M 203.21051,111.19736 A 100.53947,100.53947 0 0 1 104.61473,211.71803 100.53947,100.53947 0 0 1 2.2067298,115.08401 100.53947,100.53947 0 0 1 96.842875,10.826959 100.53947,100.53947 0 0 1 202.91001,103.42985" />
+    </g>
   </g>
 </svg>
